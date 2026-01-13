@@ -1,0 +1,117 @@
+LINKS DOS FORMULÁRIOS DO ANEXO ÚNICO
+(Formulários CLC – Fase de Planejamento da Contratação)
+
+======================================================================
+CLC-1A — Documento de Formalização da Demanda (DFD)
+Link: https://docs.google.com/document/d/11cGR_EAZNP7uwzUZ8dDqRMXr5I1QxTvjy88kCISPkac/edit
+Texto: {{get=https://docs.google.com/document/d/11cGR_EAZNP7uwzUZ8dDqRMXr5I1QxTvjy88kCISPkac/export?format=txt}}
+
+======================================================================
+CLC-1B — Documento de Formalização da Demanda – Calamidade Pública
+Link: https://docs.google.com/document/d/1XWHjq4gACnQftI5FYd0EngRqGxA0XAUisRxWiCw2BaI/edit
+Texto: {{get=https://docs.google.com/document/d/1XWHjq4gACnQftI5FYd0EngRqGxA0XAUisRxWiCw2BaI/export?format=txt}}
+
+======================================================================
+CLC-1C — Documento de Formalização da Demanda – Casos de Emergência
+Link: https://docs.google.com/document/d/1S8WyQTSyofjwRioLcjkIMYLIvinqcSdo7jrNJWerhD8/edit
+Texto: {{get=https://docs.google.com/document/d/1S8WyQTSyofjwRioLcjkIMYLIvinqcSdo7jrNJWerhD8/export?format=txt}}
+
+======================================================================
+CLC-2 — Formulário de Instituição da Equipe de Planejamento da Contratação
+Link: https://docs.google.com/document/d/1srbbmhKEG3UyP_Ff0xsxu-NzXT9qV_dChHHOx936N-U/edit
+Texto: {{get=https://docs.google.com/document/d/1srbbmhKEG3UyP_Ff0xsxu-NzXT9qV_dChHHOx936N-U/export?format=txt}}
+
+======================================================================
+CLC-3 — Estudo Técnico Preliminar
+Link: https://docs.google.com/document/d/1g2vbnE7FOLxI6xMo1Az0vv4gx1n2T8sC-uI7qtETzlk/edit
+Texto: {{get=https://docs.google.com/document/d/1g2vbnE7FOLxI6xMo1Az0vv4gx1n2T8sC-uI7qtETzlk/export?format=txt}}
+
+======================================================================
+CLC-4 — Mapa de Riscos
+Link: https://docs.google.com/document/d/1qPTvbfpTVuH6RSi0lrow1QrilXZAkj-HaLm0-J0DWUs/edit
+Texto: {{get=https://docs.google.com/document/d/1qPTvbfpTVuH6RSi0lrow1QrilXZAkj-HaLm0-J0DWUs/export?format=txt}}
+
+======================================================================
+CLC-5A — Termo de Referência Modelo Completo
+Link: https://docs.google.com/document/d/1I52GLi9yFA-gEZm8xkht58uBNJRWWYdndnXIg4nXjDw/edit
+Texto: {{get=https://docs.google.com/document/d/1I52GLi9yFA-gEZm8xkht58uBNJRWWYdndnXIg4nXjDw/export?format=txt}}
+
+======================================================================
+CLC-5B — Termo de Referência Modelo Simplificado
+Link: https://docs.google.com/document/d/1psqXedKs3vniIQpq2Cdn0SieKAFMi4MKT_IfsNcCfQE/edit
+Texto: {{get=https://docs.google.com/document/d/1psqXedKs3vniIQpq2Cdn0SieKAFMi4MKT_IfsNcCfQE/export?format=txt}}
+
+======================================================================
+CLC-5C — Termo de Referência – Inexigibilidade de Licitação – Evento Externo de Capacitação
+Link: https://docs.google.com/document/d/1vJtBLKwAvXUWjsYMgFt8pssNp4BaHFpLMD6WJO17T20/edit
+Texto: {{get=https://docs.google.com/document/d/1vJtBLKwAvXUWjsYMgFt8pssNp4BaHFpLMD6WJO17T20/export?format=txt}}
+
+======================================================================
+CLC-5D — Termo de Referência – Inexigibilidade de Licitação – Evento Interno de Capacitação
+Link: https://docs.google.com/document/d/1Bubb6lT3XMA4Co5Wd9QDT1-jExK6y461suUk2npOUI8/edit
+Texto: {{get=https://docs.google.com/document/d/1Bubb6lT3XMA4Co5Wd9QDT1-jExK6y461suUk2npOUI8/export?format=txt}}
+
+======================================================================
+CLC-5E — Termo de Referência – Convênios, Acordos e Termos de Cooperação Não Onerosos
+Link: https://docs.google.com/document/d/18rcYjJktiIlTl6XzG8dNd9II7AeyCtZXjnBJ716bkTk/edit
+Texto: {{get=https://docs.google.com/document/d/18rcYjJktiIlTl6XzG8dNd9II7AeyCtZXjnBJ716bkTk/export?format=txt}}
+
+======================================================================
+CLC-5F — Termo de Referência – Inexigibilidade de Licitação
+Link: https://docs.google.com/document/d/1h7D3QzLEI89CGKuOE9PFxFbJZ9VRmbUK1dX-egcjJTE/edit
+Texto: {{get=https://docs.google.com/document/d/1h7D3QzLEI89CGKuOE9PFxFbJZ9VRmbUK1dX-egcjJTE/export?format=txt}}
+
+======================================================================
+CLC-5G — Termo de Referência – Calamidade Pública
+Link: https://docs.google.com/document/d/1eTGFCZlkU2_2ZjO7c_d9F7XPLVAOD1Rw9HAfeyvZy5s/edit
+Texto: {{get=https://docs.google.com/document/d/1eTGFCZlkU2_2ZjO7c_d9F7XPLVAOD1Rw9HAfeyvZy5s/export?format=txt}}
+
+======================================================================
+CLC-5H — Termo de Referência – Casos de Emergência
+Link: https://docs.google.com/document/d/1Belzk9XNj6K8b87PMgz6CM-DleDWVtdzi2P2VNLF8fQ/edit
+Texto: {{get=https://docs.google.com/document/d/1Belzk9XNj6K8b87PMgz6CM-DleDWVtdzi2P2VNLF8fQ/export?format=txt}}
+
+======================================================================
+CLC-5I — Termo de Referência – Convênios, Acordos e Termos de Cooperação Onerosos
+Link: https://docs.google.com/document/d/16r7aqB-bd5hWd5lCWDKbAB-tlpm9SSUQd-4HSMmJP0k/edit
+Texto: {{get=https://docs.google.com/document/d/16r7aqB-bd5hWd5lCWDKbAB-tlpm9SSUQd-4HSMmJP0k/export?format=txt}}
+
+======================================================================
+CLC-6 — Projeto Básico
+Link: https://docs.google.com/document/d/1J7UK8eTc53WgUYtTxDB1qR9nynBbO5k3XgD_v_RxOqI/edit
+Texto: {{get=https://docs.google.com/document/d/1J7UK8eTc53WgUYtTxDB1qR9nynBbO5k3XgD_v_RxOqI/export?format=txt}}
+
+======================================================================
+CLC-7 — Indicação e Ciência de Equipe de Gestão e Fiscalização de Contrato
+Link: https://docs.google.com/document/d/1EzukwCp4_cSC4Pu147K4u-uJUJJ_6UQikD4rMQvXz9Q/edit
+Texto: {{get=https://docs.google.com/document/d/1EzukwCp4_cSC4Pu147K4u-uJUJJ_6UQikD4rMQvXz9Q/export?format=txt}}
+
+======================================================================
+CLC-8 — Formulário de Adesão à Ata de Registro de Preços
+Link: https://docs.google.com/document/d/1MMHjonoaPK8mjyM3o-xT1fHSMvjE3nbtQPPVWiwJ0Y8/edit
+Texto: {{get=https://docs.google.com/document/d/1MMHjonoaPK8mjyM3o-xT1fHSMvjE3nbtQPPVWiwJ0Y8/export?format=txt}}
+
+======================================================================
+CLC-9 — Formulário de Participação em Ata de Registro de Preços e Estudo Técnico Preliminar Simplificado
+Link: https://docs.google.com/document/d/16jJ06P4JT8inY3Oyr6phs8iu7akCa9NDd5xWB5jGyI8/edit
+Texto: {{get=https://docs.google.com/document/d/16jJ06P4JT8inY3Oyr6phs8iu7akCa9NDd5xWB5jGyI8/export?format=txt}}
+
+======================================================================
+CLC-10 — Formulário de Contratação por Ata de Registro de Preços
+Link: https://docs.google.com/document/d/1IRbqSvMCRgsTHSWBIuQoOTUylDcT9ObEWVQRm-VfZ80/edit
+Texto: {{get=https://docs.google.com/document/d/1IRbqSvMCRgsTHSWBIuQoOTUylDcT9ObEWVQRm-VfZ80/export?format=txt}}
+
+======================================================================
+CLC-11 — Formulário de Prorrogação de Contrato Contínuo
+Link: https://docs.google.com/document/d/1uEpHDYQDccCIf5EqScYwHgeCucQwWl77k3IYF64is9Y/edit
+Texto: {{get=https://docs.google.com/document/d/1uEpHDYQDccCIf5EqScYwHgeCucQwWl77k3IYF64is9Y/export?format=txt}}
+
+======================================================================
+CLC-12 — Formulário de Ateste de Vantajosidade na Manutenção de Contrato Plurianual
+Link: https://docs.google.com/document/d/1B2Vz5XGVZbyH1MSz0cVeWyegvojvwKg7-Vg1DyieVfA/edit
+Texto: {{get=https://docs.google.com/document/d/1B2Vz5XGVZbyH1MSz0cVeWyegvojvwKg7-Vg1DyieVfA/export?format=txt}}
+
+======================================================================
+CLC-13 — Formulário de Prorrogação de Ata de Registro de Preços
+Link: https://docs.google.com/document/d/1u2yL3jcS70s7Pafoc8vVJ2e-FgAwAdTH_bKXkurgSgk/edit
+Texto: {{get=https://docs.google.com/document/d/1u2yL3jcS70s7Pafoc8vVJ2e-FgAwAdTH_bKXkurgSgk/export?format=txt}}
